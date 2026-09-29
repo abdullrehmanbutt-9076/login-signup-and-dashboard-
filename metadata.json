@@ -1,0 +1,6 @@
+{
+  "name": "Android Jetpack Compose Auth & Navigation Suite",
+  "description": "Complete production-ready Android mobile application built with Jetpack Compose, Material 3, Navigation Compose, and MVVM architecture, featuring an interactive live emulator and source code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
